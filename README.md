@@ -4,6 +4,8 @@
 
 #### This is to run NodeMon
 
+###### watches the file system, and automatically restarts the process
+
 ```
 npm run dev
 
