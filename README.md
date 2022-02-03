@@ -2,7 +2,16 @@
 
 ### Start the app by entering the command given below
 
+#### This is to run NodeMon
+
 ```
 npm run dev
+
+```
+
+### This is run node app.js
+
+```
+node run start
 
 ```
